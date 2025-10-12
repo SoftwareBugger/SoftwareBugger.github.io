@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "ECE 203 Signals, Information, and Computation"
 collection: teaching
-type: "Workshop"
+type: "Peer Mentor"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Wisconsin-Madison, ECE Department"
+date: 2025-01-06
+location: "Madison, Wisconsin"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Provided in-class help for students to solve mathematical problems in Fourier transformation, and debug MATLAB exercises
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
