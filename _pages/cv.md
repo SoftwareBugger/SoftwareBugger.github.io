@@ -11,54 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Engineering, University of Wisconsin-Madison, 2026 (expected)
+* B.S. in Computer Science, Shanghai Jiao Tong University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025 - Present: Hardware Design - Undergraduate Research Assistant
+  * University of Wisconsin-Madison
+  * Duties includes: RTL design and synthesis, architectural design and optimization, simulator design
+  * Supervisor: Umit Ogras
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: In Class Peer Mentor - ECE203
+  * University of Wisconsin-Madison
+  * Duties included: Help students with signal processing concepts, computations, and Matlab guidance
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Software Engineering Intern
+  * China Sunbridge Ltd.
+  * Duties included: Implemented Independently Kalman Filter for data processing on a spectrometer Software System, also implemented UI features in DevExpress in C#, simulated signal processing in Matlab and explored trade-offs of signal processing algorithm
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* RTL design
+  * Static Timing Analysis
+  * Layout/Digital Backend
+  * Computer Architecture Simulation
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Software Engineering
+  * Embedded Software/RTOS
+  * Python Scripting and Programming
+  * Java Programming
+  * C/C++ Programming
+  * Linux Programming
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

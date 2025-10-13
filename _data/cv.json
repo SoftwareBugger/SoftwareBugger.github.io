@@ -33,35 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Wisconsin-Madison",
+      "area": "B.S. in Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "2022",
+      "endDate": "2026",
+      "gpa": 3.91,
+      "courses": ["Digital System Design and Synthesis", "VLSI", "Computer Architecture", "Embedded Systems", "Data Structures", "Advanced Computer Architecture", "Programming", "Operating Systems", "Electronic Circuits"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "B.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2021",
+      "endDate": "2022",
+      "gpa": 3.78,
+      "courses": ["Python Programming", "C++ Programming", "C++ Project"]
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": ["RTL design", "SystemVerilog", "Static Timing Analysis", "Layout/Digital Backend Design", "Embedded Software/RTOS", "C/C++", "Java", "Python", "MATLAB", "Git", "LaTeX"],
+  "languages": ["English", "Mandarin Chinese"],
   "interests": [],
   "references": [],
   "publications": [
