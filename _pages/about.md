@@ -25,4 +25,4 @@ Hardware and low-level programming fascinate me because they reveal the full sta
 
 Beyond a Bugger
 ======
-Beyond a being a Bugger, I am a person with multiple passions. I enjoy cooking and of course foods from different cultures. I am also a amateur singer, a marvel/cartoon/anime ethusiast, a language fan and a animal/paleontology lover :) Yes, this is a huge combo.
+Beyond a being a Bugger, I am a person with multiple passions. I enjoy cooking and of course foods from different cultures. I am also a amateur singer, a marvel/cartoon/anime ethusiast, a language fan and an animal/paleontology lover :) Yes, this is a huge combo.
