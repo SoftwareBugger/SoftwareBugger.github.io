@@ -24,6 +24,6 @@ The paper describes FP16 systolic and vector-unit arrays implemented in **System
 
 ## Related publication
 
-Alish Kanani, Sangwan Lee, **Han Lyu**, Jiahao Lin, Jaehyun Park, and Umit Y. Ogras. *DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages.* arXiv preprint, 2026.
+Alish Kanani, Sangwan Lee, **Han Lyu**, Jiahao Lin, Jaehyun Park, and Umit Y. Ogras. *DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages.* Accepted at the **Design Automation Conference (DAC)**. The arXiv version is available below.
 
 [Paper](https://arxiv.org/html/2603.15530v1) · [Simulation code](https://github.com/AlishKanani/DUET) · [Publication entry]({{ '/publication/2026-03-16-duet/' | relative_url }})
