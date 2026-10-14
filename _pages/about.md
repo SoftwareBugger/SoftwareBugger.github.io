@@ -9,7 +9,7 @@ redirect_from:
 
 I’m **Han Lyu**, a senior majoring in **Computer Engineering** at the **University of Wisconsin–Madison**. I’m passionate about **AI hardware design and implementation**, computer architecture modeling, VLSI, and embedded systems — essentially, how hardware and intelligence come together.
 
-I currently work with Professor Umit Ogras's [E-lab](https://elab.ece.wisc.edu/) on hardware acceleration for hybrid Mamba–Transformer LLMs. As a coauthor of [DUET](https://arxiv.org/abs/2603.15530), I primarily contributed to RTL design in SystemVerilog, synthesis, timing closure, and design space exploration (DSE).
+Before graduating, I worked with Professor Umit Ogras's [E-lab](https://elab.ece.wisc.edu/) on hardware acceleration for hybrid Mamba–Transformer LLMs. As a coauthor of [DUET](https://arxiv.org/abs/2603.15530), I primarily contributed to RTL design in SystemVerilog, synthesis, timing closure, and design space exploration (DSE).
 
 Our paper, **DUET: Disaggregated Hybrid Mamba-Transformer LLMs with Prefill and Decode-Specific Packages**, has been **accepted at the Design Automation Conference (DAC)**. You can read more about my contributions in the [project overview]({{ '/portfolio/duet/' | relative_url }}).
 
